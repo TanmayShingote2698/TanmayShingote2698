@@ -31,10 +31,10 @@
 
 | Project | Description | Tech Used |
 |--------|-------------|-----------|
-| [💼 TOM Academic System](https://github.com/tanmayshingote/TOM-Smart-Academic-Management-System) | Full-stack dashboard + chatbot for academic management | Django, JS, MySQL |
-| [🎓 Alumni Tracker](https://github.com/tanmayshingote/College-Alumni-Tracker) | Tracks alumni with real-time location & data dashboard | Flask, Pandas, Plotly |
-| [💸 Expense Tracker](https://github.com/tanmayshingote/Expense-Tracker) | Tracks, categorizes, and reports personal expenses | Flask, Bootstrap, Chart.js |
-| [📈 Forex & Crypto Predictor](https://github.com/tanmayshingote/Forex-Crypto-Predictor) | AI-based price prediction tool using LSTM/ARIMA | Python, ML, yfinance |
+| [💼 TOM Academic System](https://github.com/TanmayShingote2698/TOM-Smart-Academic-Management-System) | Full-stack dashboard + chatbot for academic management | Django, JS, MySQL |
+| [🎓 Alumni Tracker](https://github.com/TanmayShingote2698/AluminiNetwork-Tracker ) | Tracks alumni with real-time location & data dashboard | Flask, Pandas, Plotly |
+| [💸 Expense Tracker](https://github.com/TanmayShingote2698/ExpenseTracker) | Tracks, categorizes, and reports personal expenses | Flask, Bootstrap, Chart.js |
+| [📈 Forex & Crypto Predictor](https://github.com/TanmayShingote2698/market_predictor) | AI-based price prediction tool using LSTM/ARIMA | Python, ML, yfinance |
 
 ---
 
