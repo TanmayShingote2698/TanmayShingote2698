@@ -45,11 +45,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=TanmayShingote2698&theme=radical" width="400"/>
 </p>
 
-![Tanmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanmayShingote2698&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TanmayShingote2698&theme=github-dark)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TanmayShingote2698&theme=radical)](https://git.io/streak-stats)
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/TanmayShingote2698)
 
 
 ---
