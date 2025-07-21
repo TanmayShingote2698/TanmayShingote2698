@@ -45,8 +45,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=TanmayShingote2698&theme=radical" width="400"/>
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TanmayShingote2698&theme=github-dark)](https://git.io/streak-stats)
-
 
 
 ---
